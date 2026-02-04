@@ -2,6 +2,8 @@
 
 This directory contains visual architecture diagrams for the Dify project.
 
+> **中文版本** | **Chinese Version**: [中文架构图文档](../zh-CN/diagrams/README.md)
+
 ## Available Diagrams
 
 ### 1. System Architecture
